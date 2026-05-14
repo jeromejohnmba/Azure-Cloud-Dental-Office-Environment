@@ -57,6 +57,7 @@ Project files are organized into the following folders:
 
 - `/docs` – Architecture overview and project documentation
 - `/configs` – Configuration details and policy settings
+- `/notes` – Lessons learned, troubleshooting, challenges, and future improvements
 - `/screenshots` – Project screenshots with implementation notes and configuration proof
 
 ---
