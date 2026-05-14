@@ -142,7 +142,7 @@ Allstaff was used as the group email address that would be used to distribute em
 
 ![Exchange Distribution List Group Email](../screenshots/exchange-distribution-list-groupemail.png)
 
-Finally, the Dental Providers email group was created so users could send emails through any email client, such as Outlook, to all group members at once.
+Finally, the Dental Providers email group was created so users could send emails through any email client, such as Outlook, to all distribution group members at once.
 
 ![Exchange Distribution List Created 2](../screenshots/exchange-distribution-list-created-2.png)
 
